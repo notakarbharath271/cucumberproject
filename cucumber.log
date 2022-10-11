@@ -1,0 +1,79 @@
+2022-10-08 14:47:05,935 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Excetion started
+2022-10-08 14:47:05,937 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Instanciating the CommonUtils class.
+2022-10-08 14:47:05,937 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Loading properties file.
+2022-10-08 14:47:05,939 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Checking the driver instance null
+2022-10-08 14:47:05,940 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] If the driver instance is null then the open the one browser instance 
+2022-10-08 14:47:05,940 [INFO ] com.cucumber.driverManager.DriverManager [main] Stating the switch case
+2022-10-08 14:47:05,940 [INFO ] com.cucumber.driverManager.DriverManager [main] Chrome browser is opened
+2022-10-08 14:47:19,051 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] the user is logged in sucussfully and is on home page
+2022-10-08 14:47:19,724 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] the user clicks on the directory option from the menu bar
+2022-10-08 14:47:19,906 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] the user selects the job title as {string} from the dropdown list
+2022-10-08 14:47:20,006 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] clicks the search button
+2022-10-08 14:47:20,172 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] the user should see the CEO name as {string}
+2022-10-08 14:47:20,180 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Excetion started
+2022-10-08 14:47:20,180 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Instanciating the CommonUtils class.
+2022-10-08 14:47:20,181 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Loading properties file.
+2022-10-08 14:47:20,182 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Checking the driver instance null
+2022-10-08 14:47:21,304 [INFO ] com.cucumber.stepdefinations.VerifyTimesheet_Step_Def [main] the user clicks on the time option from the menu
+2022-10-08 14:47:22,657 [INFO ] com.cucumber.stepdefinations.VerifyTimesheet_Step_Def [main] the user enter the name as {string}
+2022-10-08 14:47:23,310 [INFO ] com.cucumber.stepdefinations.VerifyTimesheet_Step_Def [main] clicks on the views button
+2022-10-08 14:48:57,416 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Excetion started
+2022-10-08 14:48:57,418 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Instanciating the CommonUtils class.
+2022-10-08 14:48:57,418 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Loading properties file.
+2022-10-08 14:48:57,420 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Checking the driver instance null
+2022-10-08 14:48:57,421 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] If the driver instance is null then the open the one browser instance 
+2022-10-08 14:48:57,421 [INFO ] com.cucumber.driverManager.DriverManager [main] Stating the switch case
+2022-10-08 14:48:57,421 [INFO ] com.cucumber.driverManager.DriverManager [main] Chrome browser is opened
+2022-10-08 14:49:07,127 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] the user is logged in sucussfully and is on home page
+2022-10-08 14:49:07,724 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] the user clicks on the directory option from the menu bar
+2022-10-08 14:49:07,878 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] the user selects the job title as {string} from the dropdown list
+2022-10-08 14:49:07,999 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] clicks the search button
+2022-10-08 14:49:08,227 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] the user should see the CEO name as {string}
+2022-10-08 14:49:08,236 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Excetion started
+2022-10-08 14:49:08,237 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Instanciating the CommonUtils class.
+2022-10-08 14:49:08,237 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Loading properties file.
+2022-10-08 14:49:08,237 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Checking the driver instance null
+2022-10-08 14:49:09,473 [INFO ] com.cucumber.stepdefinations.VerifyTimesheet_Step_Def [main] the user clicks on the time option from the menu
+2022-10-08 14:49:10,833 [INFO ] com.cucumber.stepdefinations.VerifyTimesheet_Step_Def [main] the user enter the name as {string}
+2022-10-08 14:49:11,418 [INFO ] com.cucumber.stepdefinations.VerifyTimesheet_Step_Def [main] clicks on the views button
+2022-10-08 14:49:33,885 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Excetion started
+2022-10-08 14:49:33,887 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Instanciating the CommonUtils class.
+2022-10-08 14:49:33,887 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Loading properties file.
+2022-10-08 14:49:33,889 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Checking the driver instance null
+2022-10-08 14:49:33,890 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] If the driver instance is null then the open the one browser instance 
+2022-10-08 14:49:33,890 [INFO ] com.cucumber.driverManager.DriverManager [main] Stating the switch case
+2022-10-08 14:49:33,890 [INFO ] com.cucumber.driverManager.DriverManager [main] Chrome browser is opened
+2022-10-08 14:49:46,741 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] the user is logged in sucussfully and is on home page
+2022-10-08 14:49:47,342 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] the user clicks on the directory option from the menu bar
+2022-10-08 14:49:47,508 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] the user selects the job title as {string} from the dropdown list
+2022-10-08 14:49:47,624 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] clicks the search button
+2022-10-08 14:49:47,792 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] the user should see the CEO name as {string}
+2022-10-08 14:49:47,802 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Excetion started
+2022-10-08 14:49:47,802 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Instanciating the CommonUtils class.
+2022-10-08 14:49:47,802 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Loading properties file.
+2022-10-08 14:49:47,803 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Checking the driver instance null
+2022-10-08 14:49:48,959 [INFO ] com.cucumber.stepdefinations.VerifyTimesheet_Step_Def [main] the user clicks on the time option from the menu
+2022-10-08 21:44:02,303 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Excetion started
+2022-10-08 21:44:02,315 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Instanciating the CommonUtils class.
+2022-10-08 21:44:02,318 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Loading properties file.
+2022-10-08 21:44:02,341 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Checking the driver instance null
+2022-10-08 21:44:02,349 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] If the driver instance is null then the open the one browser instance 
+2022-10-08 21:44:02,350 [INFO ] com.cucumber.driverManager.DriverManager [main] Stating the switch case
+2022-10-08 21:44:02,351 [INFO ] com.cucumber.driverManager.DriverManager [main] Chrome browser is opened
+2022-10-08 21:44:39,618 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] the user is logged in sucussfully and is on home page
+2022-10-08 21:44:42,401 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] the user clicks on the directory option from the menu bar
+2022-10-08 21:44:43,220 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] the user selects the job title as {string} from the dropdown list
+2022-10-08 21:44:44,061 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] clicks the search button
+2022-10-08 21:44:44,747 [INFO ] com.cucumber.stepdefinations.VerifyCEOName_Step_Def [main] the user should see the CEO name as {string}
+2022-10-08 21:44:44,810 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Excetion started
+2022-10-08 21:44:44,810 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Instanciating the CommonUtils class.
+2022-10-08 21:44:44,810 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Loading properties file.
+2022-10-08 21:44:44,811 [INFO ] com.cucumber.stepdefinations.Common_Step_Def [main] Checking the driver instance null
+2022-10-08 21:44:46,565 [INFO ] com.cucumber.stepdefinations.VerifyTimesheet_Step_Def [main] the user clicks on the time option from the menu
+2022-10-08 21:45:49,701 [ERROR] com.cucumber.stepdefinations.VerifyTimesheet_Step_Def [main] org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0bf68b68f24495523e2cb040a82f5815, findElement {using=xpath, value=//*[@role='option']/span[text()='John  Smith']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.91, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51826}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51826/devtoo..., se:cdpVersion: 106.0.5249.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0bf68b68f24495523e2cb040a82f5815
